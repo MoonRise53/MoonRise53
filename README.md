@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoonRise53
-- 👀 I’m interested in mobile app 
-- 🌱 I’m currently learning  dart&flutter
+- 👀 I’m interested in web3
+- 🌱 I’m currently learning  go&rust
 <!-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
